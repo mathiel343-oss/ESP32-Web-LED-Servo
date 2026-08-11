@@ -4,8 +4,8 @@
 
 ##  Project Overview
 
--  **Part 1:** التحكم في LED باستخدام قيم `1` و `0`.
--  **Part 2:** التحكم في زاوية Servo Motor من خلال صفحة الويب.
+-  **Part 1:** LED control using digital values (0 and 1).
+-  **Part 2:** Servo motor angle control through a web interface.
 
 ---
 
